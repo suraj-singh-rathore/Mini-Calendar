@@ -5,7 +5,16 @@ const year = document.getElementById("year");
 
 const today = new Date();
 
-const weekDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+const weekDays = [
+    "Sunday", 
+    "Monday", 
+    "Tuesday", 
+    "Wednesday", 
+    "Thursday", 
+    "Friday", 
+    "Saturday"
+];
+
 const months = [
   "January", 
   "February", 
